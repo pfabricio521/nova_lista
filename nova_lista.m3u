@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0 group-title="canais multitalking"
+
+#EXTINF:-1 tvg-id="AQUI ESCREVA O NOME DO CANAL" tvg-name="AQUI ESCREVA O NOME DO CANAL" tvg-logo="COLAR AQUI O LINK DA IMAGEM DO CANAL" group-title="AQUI ESCREVA O ESTILO DO CANAL",AQUI ESCREVA O NOME DO CANAL
+https://live.multicanais.com/live/globosphd/video.m3u8?md5=h8qUk3fi0-dU7ka4NV9qIw&expires=1580667141
+#EXTINF:-1 tvg-id="AQUI ESCREVA O NOME DO CANAL" tvg-name="AQUI ESCREVA O NOME DO CANAL" tvg-logo="COLAR AQUI O LINK DA IMAGEM DO CANAL" group-title="AQUI ESCREVA O ESTILO DO CANAL",AQUI ESCREVA O NOME DO CANAL
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on
